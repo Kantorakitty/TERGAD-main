@@ -19,13 +19,16 @@ Install requirements.txt
 conda install --file requirements.txt
 ```
 
-
 # Step 1: Generate structured JSON descriptions
+```
 python tojson.py
+```
 
 # Step 2: Generate node embeddings using LLM
 In this document, you can also use different large language models.
+```
 python askbge.py
+```
 
 # Step 3: Train TERGAD for anomaly detection
 run the code for training Graph Anomaly Detection
