@@ -2,7 +2,7 @@
 # This is the official code for TERGAD
 
 ### Architecture
-![Architecture](./TERGAD.png)
+![Architecture](./TERGAD.pdf)
 
 ## Abstract <a id="abstract"></a>
 Graph anomaly detection (GAD) aims to identify atypical graph objects—such as nodes, edges, or substructures—that significantly deviate from the majority. 
